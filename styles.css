@@ -15,7 +15,6 @@ h1, h2, h3, h4, p, ul, ol, blockquote {
 nav ul, nav ol {
 	list-style-type: none;
 }
-
 /******** Additional resets *********/
 a { text-decoration:none; }
 
